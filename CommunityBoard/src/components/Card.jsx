@@ -8,8 +8,8 @@ const Card = (props) => {
     const date = props.date
 
     return (
-        <div className="card">
-            <img src={`/${img}`} alt="Image" style={{ width: "200px", height: "auto"}}/>
+        <div className="card" style={{maxWidth: "210px"}}>
+            <img src={`/${img}`} alt="Image" style={{ width: "200px", height: "200px"}}/>
             <h2>{title}</h2>
             <p>{location}</p>
             <p>{date}</p>
