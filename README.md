@@ -16,15 +16,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] Made the Cards Responsive and look visually appealing
+* [x] Made the Cards Responsive and look visually appealing
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+
 ![Kapture 2025-02-28 at 15 12 38](https://github.com/user-attachments/assets/c0fefda5-fa12-4f33-96bb-a7ed4f612d05)
 
 <!-- Replace this with whatever GIF tool you used! -->
