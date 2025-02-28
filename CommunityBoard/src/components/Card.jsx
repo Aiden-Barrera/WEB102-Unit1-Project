@@ -13,6 +13,7 @@ const Card = (props) => {
             <h2>{title}</h2>
             <p>{location}</p>
             <p>{date}</p>
+            <button className="btn" type="button">View Box Score</button>
         </div>
         
     )
